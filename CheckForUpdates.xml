@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <CheckUpdate>
 	<date>2015-09-01</date>
-	<updateversion>VersionOEBEG1.0.2.5VersionOEEND</updateversion>
+	<updateversion>VersionOEBEG1.0.2.6VersionOEEND</updateversion>
 	<nameapp>OrderEntry</nameapp>
 	<lastdeveloped>DavorKress</lastdeveloped>
 	<company>biovis</company>
